@@ -66,11 +66,9 @@ var rules = {
     "Why do you need ~y?",
     "Suppose you got ~y soon.",
   ],
-  "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
-    "Really--if ~y?",
+  "~*x kate williams ~*y": [
+    "the classiest bitch around ~y?",
+  
   ],
   "~*x I dreamt ~*y": [
     "Really-- ~y",
