@@ -31,14 +31,8 @@ var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+  "~*x Bard ~*y": [
+    "you smell like sardines",
   ],
   "~*x name ~*y": [
     "I am not interested in names",
