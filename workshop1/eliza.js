@@ -215,15 +215,11 @@ var rules = {
     "What incident are you thinking of?",
     "Really--always?",
   ],
-  "~*x what ~*y": [
-    "Why do you ask?",
-    "Does that question interest you?",
-    "What is it you really want to know?",
-    "What do you think?",
-    "What comes to your mind when you ask that?",
+  "~*x taco ~*y": [
+    "Go back home. You're not wanted here.",
   ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+  "~*x Bard ~*y": [
+    "You smell like sardines",
   ],
 };
 
